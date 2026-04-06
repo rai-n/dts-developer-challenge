@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rai-n/hmcts-dev-test-backend
+	branch = master
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rai-n/hmcts-dev-test-frontend
+    branch = master
