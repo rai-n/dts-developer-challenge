@@ -24,5 +24,5 @@ sequenceDiagram
     FE-->>CW: Display Result
 ```
 
-## Performance
+## Performance/ improvements
 ## TODO 
